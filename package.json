@@ -1,0 +1,10 @@
+{
+  "name": "@cavalre/openzeppelin",
+  "version": "0.1.0",
+  "description": "OpenZeppellin 5.0.1 contracts for Solidity 0.8.19",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CavalRe",
+  "license": "MIT"
+}
